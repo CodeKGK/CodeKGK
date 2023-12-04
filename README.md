@@ -5,7 +5,7 @@ CA Aspirant : INDIA
 ```
 # My Repositories & Webpages
 
-[![WebPage Badge](https://img.shields.io/badge/WebSite-%23FFFFFF?logo=GitBook&logoColor=%23FFFFFF&labelColor=%235C1C6E&color=%23D640FF&link=https%3A%2F%2Fkgk.pages.dev%2F)](https://kgk.pages.dev/)
+[![WebPage Badge](https://img.shields.io/badge/WebSite-%23FFFFFF?logo=GitBook&logoColor=%23FFFFFF&labelColor=%235C1C6E&color=%23D640FF&link=https%3A%2F%2Fkgk.pages.dev%2F)](https://kgk06.pages.dev/)
 
 [![README.md Badge](https://img.shields.io/badge/README.md-%23FFFFFF?style=flat&logo=Github&logoColor=%23FFFFFF&label=CodeKGK&color=Green)](https://github.com/CodeKGK/CodeKGK)
 
